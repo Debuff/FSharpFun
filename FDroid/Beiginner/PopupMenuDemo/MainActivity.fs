@@ -1,7 +1,7 @@
 (*
     F# Implementation of Xamarin Popup Menu Demo
     Original C# Version: https://github.com/xamarin/monodroid-samples/tree/master/PopupMenuDemo
-    Port by: Francisco Munoz
+    Port by: Francisco
 *)
 
 namespace PopupMenuDemo
