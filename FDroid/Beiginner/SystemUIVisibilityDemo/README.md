@@ -1,0 +1,3 @@
+- F# Implementation of Xamarin System UI Demo
+- Original C# Version: https://github.com/xamarin/monodroid-samples/tree/master/SystemUIVisibilityDemo
+- Port by: Francisco
