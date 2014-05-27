@@ -1,0 +1,3 @@
+- F# Implementation of Xamarin ICS Tabs Demo
+- Original C# Version: https://github.com/xamarin/monodroid-samples/tree/master/HelloTabsICS
+- Port by: Francisco
