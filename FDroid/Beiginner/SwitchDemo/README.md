@@ -1,0 +1,3 @@
+- F# Implementation of Xamarin Switch Demo
+- Original C# Version: https://github.com/xamarin/monodroid-samples/tree/master/SwitchDemo
+- Port by: Francisco
